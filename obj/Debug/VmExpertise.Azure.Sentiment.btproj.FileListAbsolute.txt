@@ -1,0 +1,4 @@
+C:\Users\Administrator\documents\visual studio 2015\Projects\VmExpertise.Azure.Sentiment\VmExpertise.Azure.Sentiment\bin\Debug\VmExpertise.Azure.Sentiment.dll
+C:\Users\Administrator\documents\visual studio 2015\Projects\VmExpertise.Azure.Sentiment\VmExpertise.Azure.Sentiment\bin\Debug\VmExpertise.Azure.Sentiment.pdb
+C:\Users\Administrator\documents\visual studio 2015\Projects\VmExpertise.Azure.Sentiment\VmExpertise.Azure.Sentiment\obj\Debug\VmExpertise.Azure.Sentiment.dll
+C:\Users\Administrator\documents\visual studio 2015\Projects\VmExpertise.Azure.Sentiment\VmExpertise.Azure.Sentiment\obj\Debug\VmExpertise.Azure.Sentiment.pdb
